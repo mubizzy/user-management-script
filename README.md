@@ -4,8 +4,6 @@
 
 - ## Usage Instructions 
 
--  ### Cloning the Repository
-
 1) **Clone the repository:** 
     ```bash
     git clone https://github.com/<your-username>/user-management-script.git
